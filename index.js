@@ -529,18 +529,13 @@ function setupTransporter() {
   return nodemailer.createTransport({
     host: 'smtp.gmail.com',
     port: 587,
-    secure: false,
-    requireTLS: true,
+    secure: false, // WAJIB false untuk 587
     auth: {
       user: emailUser,
       pass: emailPass
     },
-    timeout: 30000,
-    connectionTimeout: 30000,
-    socketTimeout: 30000,
-    tls: {
-      rejectUnauthorized: false
-    }
+    connectionTimeout: 10000,
+    socketTimeout: 10000
   });
 }
 
