@@ -10,8 +10,8 @@ const VERIFICATION_GROUP_ID = -1003310235191; //ganti dengan id gb tele mak lu
 const WHATSAPP_EMAIL = "android@support.whatsapp.com"; //jangan diganti ngentot
 
 // Konfigurasi Email
-const EMAIL_SENDER = 'fazzstorenih@gmail.com'; //ganti dengan gmail mak lu
-const EMAIL_PASSWORD = 'fazzhost123'; //ganti dengan pw gmail mak lu
+const EMAIL_SENDER = 'serversamp049@gmail.com'; //ganti dengan gmail mak lu
+const EMAIL_PASSWORD = 'ecub cbct okab iuon'; //ganti dengan pw gmail mak lu
 
 // Konfigurasi Cooldown & Limits
 const COOLDOWN_DURATION = 100000; // 5 menit
