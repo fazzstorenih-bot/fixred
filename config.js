@@ -1,10 +1,10 @@
 // ========== KONFIGURASI BOT ========== \\
 
 // Konfigurasi Telegram
-const TELEGRAM_BOT_TOKEN = '8450487493:AAH0v_p0SYhsl4oN2qtGTIj74NpniT_vKOU'; //ganti dengan token bot mak lu
-const OWNER_ID = 5521428951; //ganti dengan id mak tele lu
-const GROUP_LINK = "https://t.me/infobotbyfazz"; //ganti dengan link gb mak lu
-const VERIFICATION_GROUP_ID = -1003310235191; //ganti dengan id gb tele mak lu
+const TELEGRAM_BOT_TOKEN = '8649162840:AAF0yZS9RX3RRy_flzDLOi3w8w4jgka8kec'; //ganti dengan token bot mak lu
+const OWNER_ID = 8525945799; //ganti dengan id mak tele lu
+const GROUP_LINK = "https://t.me/+5dXNh2a7tr5mNDA1"; //ganti dengan link gb mak lu
+const VERIFICATION_GROUP_ID = -1003914110525; //ganti dengan id gb tele mak lu
 
 // Konfigurasi WhatsApp
 const WHATSAPP_EMAIL = "android@support.whatsapp.com"; //jangan diganti ngentot
